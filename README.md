@@ -1,0 +1,1 @@
+# Ai-Academy-internship-tasks
