@@ -1,1 +1,1 @@
-# Ai-Academy-internship-tasks
+# Ai-Academy-Internship-Tasks-Python
